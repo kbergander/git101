@@ -1,2 +1,2 @@
 this is a simple textfile
-:w
+this file was changed

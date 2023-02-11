@@ -1,2 +1,3 @@
 this is a simple textfile
-this file was changed
+this file was change
+this change was made after my first stash
